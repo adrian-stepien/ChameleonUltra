@@ -1,0 +1,15 @@
+{
+  "status": 64,
+  "count": 768,
+  "dropped": 0,
+  "truncated": 0,
+  "duration_ms": 510,
+  "first_result_ms": 60,
+  "first_result_count": 99,
+  "kind": 103,
+  "data": "A1B2C3D4E5",
+  "source": "fap",
+  "expected": "A1B2C3D4E5",
+  "read": 1,
+  "sha256": "66c8b2ebaf0ed7105d9d089ae982caeb3abb1b4fe967639e7d1e51b3a66756c2"
+}

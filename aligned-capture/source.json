@@ -1,0 +1,15 @@
+{
+  "fixture": "software/script/tests/data/em410x/pm5-simulation-rf64.u16",
+  "sha256": "c90d4ec1b1827e54c15b5472118b57486623fdea52ecef8e911a06192bb8d812",
+  "intervals": 762,
+  "commits": {
+    "old": "6009a5fb8adbb92d3efb548eaac9e501bd179801",
+    "fixed": "cdd62c56690947018eb6d8af0fdf701fa49dad37"
+  },
+  "interval_unit": "125 kHz carrier periods",
+  "microseconds": "nominal conversion: recorded count * 8",
+  "outputs": "actual calls to the production Manchester decoder during replay of the same captured input",
+  "first_phase_difference_input": 12,
+  "first_bit_difference_input": 13,
+  "fixed_uid_input": 99
+}
